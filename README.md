@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jenny! 👋
 
-<!--
-**jenny-arneson/Jenny-arneson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 Data Scientist | Data Analyst | Business Analyst | Data Engineer
 
-Here are some ideas to get you started:
+🔹 Master's in Data Analytics  
+🔹 Passionate about machine learning, business intelligence, and big data  
+🔹 Skilled in Python, SQL, R, and Tableau  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+- 📊 [Customer Churn Prediction](https://github.com/JennyArneson/Customer-Churn-ML)
+- 🏥 [Healthcare Drug Compliance Dashboard](https://github.com/JennyArneson/Drug-Compliance-Dashboard)
+- 🚀 [ETL Pipeline for Financial Transactions](https://github.com/JennyArneson/Financial-ETL-Pipeline)
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JennyArneson&show_icons=true&theme=dark)
