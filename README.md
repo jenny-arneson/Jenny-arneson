@@ -1,15 +1,16 @@
-# Hi, I'm Jenny! 👋
+# Hi, I'm Jenny!
+**Data Scientist (MSDA) • Product & Healthcare Analytics • MLOps-curious**
 
-### 💡 Data Scientist | Data Analyst | Business Analyst | Data Engineer
+I build end-to-end analytics: data pipelines → modeling → decision storytelling.
 
-🔹 Master's in Data Analytics  
-🔹 Passionate about machine learning, business intelligence, and big data  
-🔹 Skilled in Python, SQL, R, and Tableau  
+**Highlights**
+- 🧪 Wine Quality ML: Random Forest hit ~78% test accuracy; feature importance drove model insights.
+- 🌐 Portfolio site with resume & case studies (GitHub Pages).
 
-## 🔥 Featured Projects
-- 📊 [Capstone Project: Wine Quality Predictions ](https://github.com/jenny-arneson/wine-quality-capstone)
-- 🏥 [Healthcare Drug Compliance Dashboard](https://github.com/JennyArneson/Drug-Compliance-Dashboard)
-- 🚀 [ETL Pipeline for Financial Transactions](https://github.com/JennyArneson/Financial-ETL-Pipeline)
+**Tech**: Python, SQL, R, scikit-learn, XGBoost, dbt (learning), Tableau/Power BI
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JennyArneson&show_icons=true&theme=dark)
+**Where to start**
+1. [Wine Quality Capstone](https://github.com/jenny-arneson/wine-quality-capstone)
+2. Portfolio site (GitHub Pages): <your site URL>
+
+*Connect:* [LinkedIn](https://www.linkedin.com/in/jenniferraearneson/)
